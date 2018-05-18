@@ -1,0 +1,8 @@
+flask
+flask-socketio
+socketIO-client
+argparse
+pika
+argparse
+redis
+Redis-Semaphore
